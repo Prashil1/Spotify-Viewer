@@ -132,7 +132,3 @@ spotify-viewer/
 Additional features:
 - **Now Playing** indicator in the dashboard header (auto-refreshes)
 - **Data Import** page — upload your Spotify extended data export (ZIP or JSON)
-
-## License
-
-MIT
