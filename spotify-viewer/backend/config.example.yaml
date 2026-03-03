@@ -1,5 +1,0 @@
-port: 8000
-db_path: spotify.db
-spotify:
-  client_id: your_client_id
-  client_secret: your_client_secret
